@@ -286,6 +286,7 @@
         <ul>
           <li>使用技術: Python, GCP(Cloud Functions+Cloud Scheduler+ Cloud Pub/Sub), GitHub Actions, Docker</li>
           <li>リポジトリ: <a href="https://github.com/f-teruhisa/stooqifier" target="_blank" rel="noreferrer noopener">https://github.com/f-teruhisa/stooqifier</li>
+          <li>解説記事: <a href="https://zenn.dev/t_fukumoto/articles/e5e0fe753d5726" target="_blank" rel="noreferrer noopener">https://zenn.dev/t_fukumoto/articles/e5e0fe753d5726</li>
         </ul>
       </ul>
     </td>
