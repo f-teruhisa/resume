@@ -199,7 +199,8 @@
         <li>Rubyバージョンアップ(2.6.5→2.7.2)</li>
       </ul>
     </ul>
-    <ul>Python
+    <ul>
+      <li>Python</li>
       <ul>
         <li>Pythonバージョンアップ(2.7→3.6.4)</li>
       </ul>
