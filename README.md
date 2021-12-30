@@ -6,15 +6,14 @@
 * 生年月日: 1992年3月24日
 * メールアドレス: [teru_fukumoto@outlook.jp](mailto:teru_fukumoto@outlook.jp)
 
-
 ### 関連リンク
 * GitHub: [f-teruhisa](https://github.com/f-teruhisa)
 * Qiita: [https://qiita.com/TeruhisaFukumoto](https://qiita.com/TeruhisaFukumoto)
 * Zenn: [https://zenn.dev/t_fukumoto](https://zenn.dev/t_fukumoto)
+* Blog(Medium): [https://medium.com/@teruhisafukumoto](https://medium.com/@teruhisafukumoto)
 * LinkedIn: [https://www.linkedin.com/in/teruhisafukumoto](https://www.linkedin.com/in/teruhisafukumoto)
 * Twitter: [@terry_i_](https://twitter.com/terry_i_)
 * Facebook: [https://www.facebook.com/teruhisa.fukumoto](https://www.facebook.com/teruhisa.fukumoto)
-
 
 ## 略歴
 兵庫県出身。2015年よりSIer企業の株式会社富士通マーケティング(現: 富士通Japan株式会社)に新卒入社。2018年4月にチャットボットによるマーケティング支援サービスを開発する株式会社Zealsへ、Ruby on RailsおよびPythonのサーバサイド開発エンジニアとして入社。同年8月に同社プロダクトマネージャー(PdM)、2019年3月よりVPoEに就任。エンジニア採用やオンボーディング/評価などの組織マネジメント責任を負う。2019年10月より、ヘルステック企業のメドピア株式会社にサーバサイドエンジニアとして入社。主にRuby on Railsを用いたセルフケアプラットフォームサービスの開発に従事。
@@ -211,6 +210,7 @@
         <li>Swagger UI/Editorの導入</li>
         <li>apisproutによるモック環境構築</li>
         <li>committee-railsによるテスタビリティ向上: <a href="https://zenn.dev/t_fukumoto/articles/576ae8e68f6975" target="_blank" rel="noreferrer noopener">https://zenn.dev/t_fukumoto/articles/576ae8e68f6975</a></li>
+        <li>redoc-cliによるドキュメントのホスティング</li>
       </ul>
     </ul>
     <ul>
@@ -329,4 +329,6 @@
 </table>
 
 ## 資格等
-- 基本情報技術者(2015年取得)
+- 基本情報技術者: 2015年4月
+- Linux Professional Institute Certification(LPIC) Level 1:  2021年11月23日
+  - URL: [https://cs.lpi.org/caf/Xamman/certification/verify/LPI000450347/yhyx5attm3](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000450347/yhyx5attm3)
