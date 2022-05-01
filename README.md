@@ -221,6 +221,15 @@
     </ul>
     <ul>
       <li>AWS</li>
+      <ul>
+        <li>既存環境の運用/メンテナンス</li>
+      </ul>
+    </ul>
+    <ul>
+      <li>Terraform</li>
+      <ul>
+        <li>既存構成の運用/メンテナンス</li>
+      </ul>
     </ul>
     <ul>
       <li>JavaScript, jQuery</li>
@@ -268,18 +277,11 @@
     </td>
     <td>
       <ul>
-        <li>個人ポートフォリオ</li>
-        <ul>
-          <li>使用技術: React, Firebase, Docker, CircleCI, Material UI</li>
-          <li>URL: <a href="https://teruhisafukumoto.com/" target="_blank" rel="noreferrer noopener">https://teruhisafukumoto.com/</a></li>
-          <li>リポジトリ: <a href="https://github.com/f-teruhisa/fukumoto_portfolio" target="_blank" rel="noreferrer noopener">https://github.com/f-teruhisa/fukumoto_portfolio</a></li>
-        </ul>
-      </ul>
-      <ul>
-        <li>ドキュメント翻訳</li>
+        <li>ドキュメント翻訳/更新</li>
         <ul>
           <li>Gatsby.js: <a href="https://github.com/gatsbyjs/gatsby-ja">https://github.com/gatsbyjs/gatsby-ja</a></li>
           <li>Next.js: <a href="https://github.com/f-teruhisa/Nextjs-ja-translation-docs">https://github.com/f-teruhisa/Nextjs-ja-translation-docs</a></li>
+          <li>RailsGuide: <a href="https://github.com/yasslab/railsguides.jp">https://github.com/yasslab/railsguides.jp</a></li>
         </ul>
       </ul>
       <ul>
@@ -288,6 +290,14 @@
           <li>使用技術: Python, GCP(Cloud Functions+Cloud Scheduler+ Cloud Pub/Sub), GitHub Actions, Docker</li>
           <li>リポジトリ: <a href="https://github.com/f-teruhisa/stooqifier" target="_blank" rel="noreferrer noopener">https://github.com/f-teruhisa/stooqifier</a></li>
           <li>解説記事: <a href="https://zenn.dev/t_fukumoto/articles/e5e0fe753d5726" target="_blank" rel="noreferrer noopener">https://zenn.dev/t_fukumoto/articles/e5e0fe753d5726</a></li>
+        </ul>
+      </ul>
+      <ul>
+        <li>個人ポートフォリオ</li>
+        <ul>
+          <li>使用技術: React, Firebase, Docker, CircleCI, Material UI</li>
+          <li>URL: <a href="https://teruhisafukumoto.com/" target="_blank" rel="noreferrer noopener">https://teruhisafukumoto.com/</a></li>
+          <li>リポジトリ: <a href="https://github.com/f-teruhisa/fukumoto_portfolio" target="_blank" rel="noreferrer noopener">https://github.com/f-teruhisa/fukumoto_portfolio</a></li>
         </ul>
       </ul>
     </td>
@@ -326,9 +336,18 @@
    <td>3</td>
    <td>近畿大学 経済学部 経済学科 情報コース 卒業</td>
   </tr>
+  <tr>
+   <td>2022</td>
+   <td>4</td>
+   <td>帝京大学 理工学部 情報科学科 通信教育課程 入学(2年時編入):
+    <a href="https://medium.com/@teruhisafukumoto/transfer-to-computer-science-major-university-48875e583a13">https://medium.com/@teruhisafukumoto/transfer-to-computer-science-major-university-48875e583a13</a>
+</td>
+  </tr>
 </table>
 
 ## 資格等
-- 基本情報技術者: 2015年4月
-- Linux Professional Institute Certification(LPIC) Level 1:  2021年11月23日
-  - URL: [https://cs.lpi.org/caf/Xamman/certification/verify/LPI000450347/yhyx5attm3](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000450347/yhyx5attm3)
+* 基本情報技術者試験: 2015年5月18日(第FE-2015-04-09526号)
+* Linux Professional Institute Certification(LPIC) Level 1:  2021年11月23日
+  * URL: [https://cs.lpi.org/caf/Xamman/certification/verify/LPI000450347/yhyx5attm3](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000450347/yhyx5attm3)  
+* AWS Certified Solutions Architect – Associate(SAA): 2022年2月6日
+  * URL: [https://www.credly.com/badges/786ae87f-e882-4e03-b81c-5dc9db0c8d9c/public_url](https://www.credly.com/badges/786ae87f-e882-4e03-b81c-5dc9db0c8d9c/public_url)
