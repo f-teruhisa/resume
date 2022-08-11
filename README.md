@@ -179,7 +179,7 @@
     </td>
   </tr>
   <tr>
-    <td>2019年10月～</td>
+    <td>2019年10月～2022年4月</td>
     <td>
       <p>メドピア株式会社/株式会社フィッツプラス(出向)</p>
       <p>担当：サーバサイドエンジニア</p>
@@ -244,7 +244,55 @@
       <li>git(GitHub)</li>
     </ul>
     <ul>
-      <li>Linux</li>
+      <li>Linux(Amazon Linux)</li>
+    </ul>
+   </td>
+  </tr>
+   <tr>
+    <td>2022年5月～</td>
+    <td>
+      <p>メドピア株式会社/株式会社MediPlat(異動・出向)</p>
+      <p>担当：サーバサイドエンジニア</p>
+      <ul>
+        <li>Ruby on Railsを用いたtoC向けスマホアプリのAPI/管理画面 機能の開発および運用保守</li>
+        <li>社内gemを用いたライブラリの開発・メンテナンス</li>
+      </ul>
+    </td>
+  <td>
+    <ul>
+      <li>Ruby on Rails</li>
+      <ul>
+        <li>社内gemの機能開発・メンテナンス</li>
+        <li>Rails Engineを使用した機能開発</li>
+      </ul>
+    </ul>
+    <ul>
+      <li>AWS</li>
+      <ul>
+        <li>既存環境の運用/メンテナンス</li>
+        <li>コンテナ(ECS/Fargate)のAutoScaling運用</li>
+      </ul>
+    </ul>
+    <ul>
+      <li>Terraform</li>
+      <ul>
+        <li>既存構成の運用/メンテナンス</li>
+      </ul>
+    </ul>
+    <ul>
+      <li>Docker</li>
+      <ul>
+        <li>開発環境の構築／メンテナンス</li>
+      </ul>
+    </ul>
+    <ul>
+      <li>CircleCI/GitHub Actionsを用いたCI/CD環境の構築・メンテナンス</li>
+    </ul>
+    <ul>
+      <li>SQL(MySQL, PostgreSQL)</li>
+    </ul>
+    <ul>
+      <li>git(GitHub)</li>
     </ul>
    </td>
   </tr>
