@@ -14,6 +14,7 @@
 * LinkedIn: [https://www.linkedin.com/in/teruhisafukumoto](https://www.linkedin.com/in/teruhisafukumoto)
 * Twitter: [@terry_i_](https://twitter.com/terry_i_)
 * Facebook: [https://www.facebook.com/teruhisa.fukumoto](https://www.facebook.com/teruhisa.fukumoto)
+* Wantedly: [https://www.wantedly.com/id/teruhisa_fukumoto](https://www.wantedly.com/id/teruhisa_fukumoto)
 
 ## 略歴
 兵庫県出身。2015年よりSIer企業の株式会社富士通マーケティング(現: 富士通Japan株式会社)に新卒入社。2018年4月にチャットボットによるマーケティング支援サービスを開発する株式会社Zealsへ、Ruby on RailsおよびPythonのサーバサイド開発エンジニアとして入社。同年8月に同社プロダクトマネージャー(PdM)、2019年3月よりVPoEに就任。エンジニア採用やオンボーディング/評価などの組織マネジメント責任を負う。2019年10月より、ヘルステック企業のメドピア株式会社にサーバサイドエンジニアとして入社。主にRuby on Railsを用いたセルフケアプラットフォームサービスの開発に従事。
@@ -346,6 +347,7 @@
           <li>使用技術: React, Firebase, Docker, CircleCI, Material UI</li>
           <li>URL: <a href="https://teruhisafukumoto.com/" target="_blank" rel="noreferrer noopener">https://teruhisafukumoto.com/</a></li>
           <li>リポジトリ: <a href="https://github.com/f-teruhisa/fukumoto_portfolio" target="_blank" rel="noreferrer noopener">https://github.com/f-teruhisa/fukumoto_portfolio</a></li>
+          <li>内容が古いのでメンテ予定</li>
         </ul>
       </ul>
     </td>
