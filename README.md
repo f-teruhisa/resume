@@ -166,7 +166,7 @@
         <li>技術広報</li>
         <ul>
           <li>LINE / Facebook開発者コミュニティでの登壇・運営</li>
-          <li>テックブログ運用</li>
+          <li>テックブログ運用:  <a href="https://medium.com/@teruhisafukumoto/%E3%83%86%E3%83%83%E3%82%AF%E3%83%96%E3%83%AD%E3%82%B0-%E7%99%BB%E5%A3%87-%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88-%E4%BC%9A%E7%A4%BE%E3%81%A7%E6%8A%80%E8%A1%93%E5%BA%83%E5%A0%B1%E3%82%92%E7%B6%99%E7%B6%9A%E3%81%97%E3%81%A6%E8%A1%8C%E3%81%86%E3%81%9F%E3%82%81%E3%81%AE%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3-4c3b40039399" target="_blank" rel="noreferrer noopener">テックブログ、登壇、イベント…企業が技術広報を継続して行うためのガイドライン</a></li>
         </ul>
       </ul>
       <ul>
@@ -190,6 +190,7 @@
       <ul>
         <li>既存資産(PHP, Perl, Python等)の運用保守</li>
       </ul>
+      <p>インタビュー:  <a href="https://engineer.medpeer.co.jp/stories/ruby-on-rails" target="_blank" rel="noreferrer noopener">https://engineer.medpeer.co.jp/stories/ruby-on-rails</a</p>
     </td>
   <td>
     <ul>
@@ -270,14 +271,14 @@
     <ul>
       <li>AWS</li>
       <ul>
-        <li>既存環境の運用/メンテナンス</li>
+        <li>既存環境の運用/改善</li>
         <li>コンテナ(ECS/Fargate)のAutoScaling運用</li>
       </ul>
     </ul>
     <ul>
       <li>Terraform</li>
       <ul>
-        <li>既存構成の運用/メンテナンス</li>
+        <li>既存構成の運用/改善:  <a href="https://zenn.dev/t_fukumoto/articles/bf56daeaf616c4" target="_blank" rel="noreferrer noopener">https://zenn.dev/t_fukumoto/articles/bf56daeaf616c4</a></li>
       </ul>
     </ul>
     <ul>
