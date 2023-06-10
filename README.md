@@ -17,7 +17,10 @@
 * Wantedly: [https://www.wantedly.com/id/teruhisa_fukumoto](https://www.wantedly.com/id/teruhisa_fukumoto)
 
 ## 略歴
-兵庫県出身。2015年よりSIer企業の株式会社富士通マーケティング(現: 富士通Japan株式会社)に新卒入社。2018年4月にチャットボットによるマーケティング支援サービスを開発する株式会社Zealsへ、Ruby on RailsおよびPythonのサーバサイド開発エンジニアとして入社。同年8月に同社プロダクトマネージャー(PdM)、2019年3月よりVPoEに就任。エンジニア採用やオンボーディング/評価などの組織マネジメント責任を負う。2019年10月より、ヘルステック企業のメドピア株式会社にサーバサイドエンジニアとして入社。主にRuby on Railsを用いたセルフケアプラットフォームサービスの開発に従事。
+兵庫県出身。2015年よりSIer企業の株式会社富士通マーケティング(現: 富士通Japan株式会社)に新卒入社。
+2018年4月にチャットボットによるマーケティング支援サービスを開発する株式会社Zealsへ、Ruby on RailsおよびPythonのサーバサイド開発エンジニアとして入社。同年8月に同社プロダクトマネージャー(PdM)、2019年3月よりVPoEに就任。エンジニア採用やオンボーディング/評価などの組織マネジメント責任を負う。
+2019年10月より、ヘルステック企業のメドピア株式会社にサーバサイドエンジニアとして入社。主にRuby on Railsを用いたセルフケアプラットフォームサービスのサーバサイド開発に従事し、管理画面やスマホアプリのAPI開発を行なう。
+2023年5月より、スタートアップ向けファイナンス/経営管理SaaS開発の株式会社スマートラウンドにエンジニアとして入社。Server Side Kotlin(ktor)とVue(TypeScript)を用いたサービスのバックエンド/フロントエンド開発に従事。
 
 ## 職務経歴
 <table>
@@ -251,7 +254,7 @@
    </td>
   </tr>
    <tr>
-    <td>2022年5月～</td>
+    <td>2022年5月～2023年4月</td>
     <td>
       <p>メドピア株式会社/株式会社MediPlat(異動・出向)</p>
       <p>担当：サーバサイドエンジニア</p>
@@ -278,7 +281,7 @@
     <ul>
       <li>Terraform</li>
       <ul>
-        <li>既存構成の運用/改善:  <a href="https://zenn.dev/t_fukumoto/articles/bf56daeaf616c4" target="_blank" rel="noreferrer noopener">https://zenn.dev/t_fukumoto/articles/bf56daeaf616c4</a></li>
+        <li>既存インフラの運用/改善:  <a href="https://zenn.dev/t_fukumoto/articles/bf56daeaf616c4" target="_blank" rel="noreferrer noopener">https://zenn.dev/t_fukumoto/articles/bf56daeaf616c4</a></li>
       </ul>
     </ul>
     <ul>
@@ -297,6 +300,47 @@
       <li>git(GitHub)</li>
     </ul>
    </td>
+  </tr>
+  <tr>
+    <td>2023年5月～</td>
+    <td>
+      <p>株式会社スマートラウンド</p>
+      <p>担当：フルスタックエンジニア</p>
+      <ul>
+        <li>Server Side Kotlin(ktor), Vue(TypeScript)を用いたサービスのバックエンド開発</li>
+       <li>エンジニア採用</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>ktor(Kotlin)</li>
+        <ul>
+            <li>新規機能の開発</li>
+            <li>既存機能のバグ修正</li>
+            <li>既存処理のリファクタリング</li>
+        </ul>
+      </ul>
+      <ul>
+        <li>Vue.js(TypeScript)</li>
+        <ul>
+            <li>新機能・画面の作成</li>
+            <li>既存コンポーネントのリファクタリング</li>
+        </ul>
+      </ul>
+      <ul>
+        <li>Terraform(AWS)</li>
+        <ul>
+            <li>既存インフラの改善</li>
+        </ul>
+      </ul>
+      <ul>
+        <li>エンジニア採用</li>
+        <ul>
+            <li>面談/面接の実施</li>
+            <li>スカウト作成/送付</li>
+        </ul>
+      </ul>
+    </td>
   </tr>
 </table>
 
@@ -392,13 +436,13 @@
    <td>4</td>
    <td>帝京大学 理工学部 情報科学科 通信教育課程 入学(2年時編入):
     <a href="https://medium.com/@teruhisafukumoto/transfer-to-computer-science-major-university-48875e583a13">https://medium.com/@teruhisafukumoto/transfer-to-computer-science-major-university-48875e583a13</a>
-</td>
+   </td>
   </tr>
 </table>
 
 ## 資格等
 * 基本情報技術者試験: 2015年5月18日(第FE-2015-04-09526号)
 * Linux Professional Institute Certification(LPIC) Level 1:  2021年11月23日
-  * URL: [https://cs.lpi.org/caf/Xamman/certification/verify/LPI000450347/yhyx5attm3](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000450347/yhyx5attm3)  
+  * URL: [https://cs.lpi.org/caf/Xamman/certification/verify/LPI000450347/yhyx5attm3](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000450347/yhyx5attm3)
 * AWS Certified Solutions Architect – Associate(SAA): 2022年2月6日
   * URL: [https://www.credly.com/badges/786ae87f-e882-4e03-b81c-5dc9db0c8d9c/public_url](https://www.credly.com/badges/786ae87f-e882-4e03-b81c-5dc9db0c8d9c/public_url)
