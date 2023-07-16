@@ -8,6 +8,7 @@
 
 ### 関連リンク
 * GitHub: [f-teruhisa](https://github.com/f-teruhisa)
+* SpeakerDeck: [https://speakerdeck.com/teruhisafukumoto](https://speakerdeck.com/teruhisafukumoto)
 * Qiita: [https://qiita.com/TeruhisaFukumoto](https://qiita.com/TeruhisaFukumoto)
 * Zenn: [https://zenn.dev/t_fukumoto](https://zenn.dev/t_fukumoto)
 * Blog(Medium): [https://medium.com/@teruhisafukumoto](https://medium.com/@teruhisafukumoto)
@@ -17,9 +18,9 @@
 * Wantedly: [https://www.wantedly.com/id/teruhisa_fukumoto](https://www.wantedly.com/id/teruhisa_fukumoto)
 
 ## 略歴
-兵庫県出身。2015年よりSIer企業の株式会社富士通マーケティング(現: 富士通Japan株式会社)に新卒入社。
-2018年4月にチャットボットによるマーケティング支援サービスを開発する株式会社Zealsへ、Ruby on RailsおよびPythonのサーバサイド開発エンジニアとして入社。同年8月に同社プロダクトマネージャー(PdM)、2019年3月よりVPoEに就任。エンジニア採用やオンボーディング/評価などの組織マネジメント責任を負う。
-2019年10月より、ヘルステック企業のメドピア株式会社にサーバサイドエンジニアとして入社。主にRuby on Railsを用いたセルフケアプラットフォームサービスのサーバサイド開発に従事し、管理画面やスマホアプリのAPI開発を行なう。
+兵庫県出身。<br>2015年よりSIer企業の株式会社富士通マーケティング(現: 富士通Japan株式会社)に新卒入社。<br><br>
+2018年4月にチャットボットによるマーケティング支援サービスを開発する株式会社Zealsへ、Ruby on RailsおよびPythonのサーバサイド開発エンジニアとして入社。同年8月に同社プロダクトマネージャー(PdM)、2019年3月よりVPoEに就任。エンジニア採用やオンボーディング/評価などの組織マネジメント責任を負う。<br><br>
+2019年10月より、ヘルステック企業のメドピア株式会社にサーバサイドエンジニアとして入社。主にRuby on Railsを用いたセルフケアプラットフォームサービスのサーバサイド開発に従事し、管理画面やスマホアプリのAPI開発を行なう。<br><br>
 2023年5月より、スタートアップ向けファイナンス/経営管理SaaS開発の株式会社スマートラウンドにエンジニアとして入社。Server Side Kotlin(ktor)とVue(TypeScript)を用いたサービスのバックエンド/フロントエンド開発に従事。
 
 ## 職務経歴
